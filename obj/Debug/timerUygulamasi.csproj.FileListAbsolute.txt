@@ -1,0 +1,10 @@
+C:\Users\tunca\source\repos\timerUygulamasi\bin\Debug\timerUygulamasi.exe.config
+C:\Users\tunca\source\repos\timerUygulamasi\bin\Debug\timerUygulamasi.exe
+C:\Users\tunca\source\repos\timerUygulamasi\bin\Debug\timerUygulamasi.pdb
+C:\Users\tunca\source\repos\timerUygulamasi\obj\Debug\timerUygulamasi.csprojAssemblyReference.cache
+C:\Users\tunca\source\repos\timerUygulamasi\obj\Debug\timerUygulamasi.Form1.resources
+C:\Users\tunca\source\repos\timerUygulamasi\obj\Debug\timerUygulamasi.Properties.Resources.resources
+C:\Users\tunca\source\repos\timerUygulamasi\obj\Debug\timerUygulamasi.csproj.GenerateResource.cache
+C:\Users\tunca\source\repos\timerUygulamasi\obj\Debug\timerUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\tunca\source\repos\timerUygulamasi\obj\Debug\timerUygulamasi.exe
+C:\Users\tunca\source\repos\timerUygulamasi\obj\Debug\timerUygulamasi.pdb
